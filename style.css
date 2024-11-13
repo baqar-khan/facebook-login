@@ -1,0 +1,49 @@
+body{
+      text-align: center;
+      font-size: larger;
+      
+}
+
+h1{
+    color: rgb(0, 89, 255);
+    font-family: Arial, Helvetica, sans-serif, Geneva, Verdana, sans-serif;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.emailBox{
+background-color: rgb(247, 243, 243);
+box-sizing: border-box;
+width: 350px;
+margin: auto;
+padding: 10px;
+height: 350px;
+border: 1px;
+border-radius: 11px;
+border-color: black;
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+}
+
+.inputemial{
+    padding: 9px;
+    margin-top: 9px;
+    width: 270px;
+}
+
+.buttoncolor{
+    padding: 9px;
+    margin-top: 9px;
+    width: 270px;
+    background-color: rgb(0, 111, 185);
+    color: white;
+    border-color: none;
+}
+
+.lastbutton{
+    padding: 9px; 
+    background-color: rgb(24, 190, 46);
+    color:white;
+}
